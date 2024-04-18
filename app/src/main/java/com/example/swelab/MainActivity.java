@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 i+=1;
 
-                if(i%2!=0)textView.setText("M name is  odd!") ;
-                else textView.setText("my name is Even!");
+                if(i%2!=0)textView.setText(" name is  odd!") ;
+                else textView.setText("giname is Even!");
             }
         });
 
